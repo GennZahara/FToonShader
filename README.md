@@ -8,6 +8,13 @@ Unity 2022.3f URP Forward+ 기반 Toon Shader 포트폴리오
 - ShaderLab
 - C#
 
+# Feature
+- Cel Shading ( 3-Tone )
+- Rim Light and SSS Based Fresnel
+- Kajiya-Kay hair specular
+- Using Lightmap, Normalmap, SDF Texture, Matcap
+- Outline ( inverted hull )
+
 # Scene
 <img width="683" height="504" alt="image" src="https://github.com/user-attachments/assets/4dd880ee-beb9-4c2f-8b4d-b9b7b46d349e" />
 
