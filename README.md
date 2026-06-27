@@ -9,7 +9,7 @@ Unity 2022.3f URP Forward+ 기반 Toon Shader 포트폴리오
 - C#
 
 # Scene
-<img width="1903" height="878" alt="image" src="https://github.com/user-attachments/assets/c1f95762-d89e-4d05-b8a1-d3a0f7ee0b9f" />
+<img width="683" height="504" alt="image" src="https://github.com/user-attachments/assets/4dd880ee-beb9-4c2f-8b4d-b9b7b46d349e" />
 
 # Execute
 - UnityHub에서 실행하세요.
